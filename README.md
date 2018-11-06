@@ -1,6 +1,6 @@
 Awesome-Pytorch-list
 ========================
-
+If you want to learn and do things in pytorch this is for you.
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 <p align="center">
